@@ -2,5 +2,5 @@
 - 👯 Interesada en aquello que nos haga crecer
 - 💬 Busco participar en proyectos que me permitan contribuir a la comunidad y la innvocación
 - 🌱 Actualmente aprendiendo cada día más de la ciencia de datos y el aprendizaje automático
-- 📫 Puedes contactarme en: [https://www.linkedin.com/in/estefania-garridoz
+- 📫 Puedes contactarme en: https://www.linkedin.com/in/estefania-garridoz
 - 😄 Amante de la lectura y la naturaleza
